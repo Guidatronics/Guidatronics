@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Francisco 👋 | Hola, soy Francisco 👋
 
-<!--
-**Guidatronics/Guidatronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇸 Mechatronics Engineer passionate about automation, programming and all things geek. I love finding ways to make things work more efficiently.
 
-Here are some ideas to get you started:
+🇲🇽 Ingeniero en Mecatrónica apasionado por la automatización, la programación y todo lo geek. Me gusta encontrar formas de hacer que las cosas funcionen de manera más eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm working on | En qué ando
+- Web apps to automate everyday tasks | Apps web para automatizar tareas del día a día
+- Process tracking and control tools | Herramientas de seguimiento y control de procesos
+- Exploring e-commerce and business automation | Explorando e-commerce y automatización de negocios
+
+## 🛠️ Tech stack | Tecnologías
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+## 📫 Contact | Contacto
+[LinkedIn](https://linkedin.com/in/tu-usuario)
+
+---
+⚙️ *guidatronics: mechatronics + code | mecatrónica + código*
