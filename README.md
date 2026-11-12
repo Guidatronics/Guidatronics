@@ -1,3 +1,5 @@
+![guidatronics banner](banner.png)
+
 # Hi, I'm Francisco 👋 | Hola, soy Francisco 👋
 
 🇺🇸 Mechatronics Engineer passionate about automation, programming and all things geek. I love finding ways to make things work more efficiently.
