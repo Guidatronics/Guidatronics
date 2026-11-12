@@ -15,8 +15,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
-## 📫 Contact | Contacto
-[LinkedIn](https://linkedin.com/in/tu-usuario)
-
 ---
 ⚙️ *guidatronics: mechatronics + code | mecatrónica + código*
